@@ -75,6 +75,7 @@ curl --request GET \
 
 ### Sample Success Response 
 
+```json
 [
 	{
 		"compliance_issue": "Use of prohibited terms",
@@ -97,3 +98,4 @@ curl --request GET \
 		"description": "The website claims to be 'not just a banking platform' but offers services similar to traditional banking, which may mislead customers about the nature of the product."
 	}
 ]
+```
